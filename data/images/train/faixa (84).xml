@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>faixa (84).jpg</filename>
+	<path>C:\Users\Navarro\Desktop\novo treinamento\object_detection_demo\data\raw\faixa (84).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faixa_reta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>651</ymin>
+			<xmax>3999</xmax>
+			<ymax>1515</ymax>
+		</bndbox>
+	</object>
+</annotation>
