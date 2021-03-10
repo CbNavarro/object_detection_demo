@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>direita</name>
+		<name>reta</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4</xmin>
-			<ymin>1</ymin>
-			<xmax>791</xmax>
-			<ymax>594</ymax>
+			<xmin>1</xmin>
+			<ymin>213</ymin>
+			<xmax>1023</xmax>
+			<ymax>462</ymax>
 		</bndbox>
 	</object>
 </annotation>
